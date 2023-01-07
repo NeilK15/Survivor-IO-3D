@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1485402079b341da87d4da78979812e1, type: 3}
+  m_Name: SO_BladesData
+  m_EditorClassIdentifier: 
+  name: Blades
+  icon: {fileID: 0}
+  prefab: {fileID: 3867903116070579180, guid: f706379ce881cab46a7662ee84ce622e, type: 3}
+  damage: 50
+  knockback: 100
+  weaponSlot: 0
+  timeOn: 10
+  timeOff: 5
